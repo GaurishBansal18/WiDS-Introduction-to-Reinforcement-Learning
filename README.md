@@ -1,3 +1,6 @@
+Gaurish Bansal
+25B3916
+
 # Introduction to Reinforcement Learning (WiDS)
 
 Welcome! This repository contains all the resources and assignments to guide you through your RL journey. Each week we will explore various facets of RL preparing you to tackle a comprehensive final project.
